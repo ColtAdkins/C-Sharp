@@ -1,0 +1,12 @@
+F:\Lab2B\Lab2B\bin\Debug\Lab2B.exe.config
+E:\Lab2B\Lab2B\bin\Debug\Lab2B.exe.config
+E:\Lab2B\Lab2B\bin\Debug\Lab2B.exe
+E:\Lab2B\Lab2B\bin\Debug\Lab2B.pdb
+E:\Lab2B\Lab2B\bin\Debug\Lab2B.xml
+E:\Lab2B\Lab2B\obj\Debug\Lab2B.vbprojResolveAssemblyReference.cache
+E:\Lab2B\Lab2B\obj\Debug\Lab2B.Form1.resources
+E:\Lab2B\Lab2B\obj\Debug\Lab2B.Resources.resources
+E:\Lab2B\Lab2B\obj\Debug\Lab2B.vbproj.GenerateResource.Cache
+E:\Lab2B\Lab2B\obj\Debug\Lab2B.exe
+E:\Lab2B\Lab2B\obj\Debug\Lab2B.xml
+E:\Lab2B\Lab2B\obj\Debug\Lab2B.pdb

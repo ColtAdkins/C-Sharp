@@ -1,0 +1,2 @@
+F:\Chap4Exercise3CMA\Chap4Exercise3CMA\bin\Debug\Chap4Exercise3CMA.exe.config
+E:\Chap4Exercise3CMA\Chap4Exercise3CMA\bin\Debug\Chap4Exercise3CMA.exe.config

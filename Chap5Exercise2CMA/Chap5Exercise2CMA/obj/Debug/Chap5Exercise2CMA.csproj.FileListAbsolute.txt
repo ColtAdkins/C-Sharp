@@ -1,0 +1,12 @@
+F:\Chap5Exercise2CMA\Chap5Exercise2CMA\bin\Debug\Chap5Exercise2CMA.exe.config
+F:\Chap5Exercise2CMA\Chap5Exercise2CMA\obj\Debug\Chap5Exercise2CMA.csprojResolveAssemblyReference.cache
+F:\Chap5Exercise2CMA\Chap5Exercise2CMA\bin\Debug\Chap5Exercise2CMA.exe
+F:\Chap5Exercise2CMA\Chap5Exercise2CMA\bin\Debug\Chap5Exercise2CMA.pdb
+F:\Chap5Exercise2CMA\Chap5Exercise2CMA\obj\Debug\Chap5Exercise2CMA.exe
+F:\Chap5Exercise2CMA\Chap5Exercise2CMA\obj\Debug\Chap5Exercise2CMA.pdb
+E:\Chap5Exercise2CMA\Chap5Exercise2CMA\bin\Debug\Chap5Exercise2CMA.exe.config
+E:\Chap5Exercise2CMA\Chap5Exercise2CMA\obj\Debug\Chap5Exercise2CMA.exe
+E:\Chap5Exercise2CMA\Chap5Exercise2CMA\obj\Debug\Chap5Exercise2CMA.pdb
+E:\Chap5Exercise2CMA\Chap5Exercise2CMA\bin\Debug\Chap5Exercise2CMA.exe
+E:\Chap5Exercise2CMA\Chap5Exercise2CMA\bin\Debug\Chap5Exercise2CMA.pdb
+E:\Chap5Exercise2CMA\Chap5Exercise2CMA\obj\Debug\Chap5Exercise2CMA.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+F:\Chapter5DebugCMA\Chapter5DebugCMA\bin\Debug\Chapter5DebugCMA.exe.config
+F:\Chapter5DebugCMA\Chapter5DebugCMA\bin\Debug\Chapter5DebugCMA.exe
+F:\Chapter5DebugCMA\Chapter5DebugCMA\bin\Debug\Chapter5DebugCMA.pdb
+F:\Chapter5DebugCMA\Chapter5DebugCMA\obj\Debug\Chapter5DebugCMA.csprojResolveAssemblyReference.cache
+F:\Chapter5DebugCMA\Chapter5DebugCMA\obj\Debug\Chapter5DebugCMA.exe
+F:\Chapter5DebugCMA\Chapter5DebugCMA\obj\Debug\Chapter5DebugCMA.pdb
